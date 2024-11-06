@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.zohan.tech/api?username=TheWilli67&show_icons=true&locale=en&theme=tokyonight
-" alt="LilaLio stats" /></p>
+" alt="TheWilli67 stats" /></p>
 <!--
 **TheWilli67/TheWilli67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
